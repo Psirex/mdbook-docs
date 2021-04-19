@@ -1,7 +1,7 @@
 # Summary
 [Introduction](./README.md)
 
-- [Contracts]()
+- [Contracts](./contracts/index.md)
   - [Lido](./contracts/lido.md)
   - [LidoOracle](./contracts/lido-oracle.md)
   - [NodeOperatorsRegistry](./contracts/node-operators-registry.md)
