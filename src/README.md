@@ -1,4 +1,4 @@
-# Lido Ethereum Liquid Staking Protocol
+# Introduction
 
 The Lido Ethereum Liquid Staking Protocol, built on Ethereum 2.0's Beacon chain, allows their users to earn staking rewards on the Beacon chain without locking Ether or maintaining staking infrastructure.
 
